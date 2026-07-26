@@ -1,4 +1,4 @@
-<h1>Hi, I'm Dominique, an <a [href="https://www.linkedin.com/in/dominique-caillier/]">IT Professional</a>!</h1>
+<h1>Hi, I'm Dominique, an <a href="https://www.linkedin.com/in/dominique-caillier/">IT Professional</a>!</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
@@ -16,4 +16,4 @@
 [<img align="left" alt="Dominique | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
-[linkedin]: [https://linkedin.com/in/dominique-caillier/]
+[linkedin]: https://linkedin.com/in/dominique-caillier
